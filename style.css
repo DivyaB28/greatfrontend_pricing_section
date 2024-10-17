@@ -17,7 +17,6 @@ body {
   min-height: 100vh;
   background: linear-gradient(to bottom, #f9fafb, #d2d6db);
   line-height: 1.7;
-  font-size: 1rem;
 }
 
 * {
@@ -56,6 +55,7 @@ main {
 
 h1 {
   font-size: 31px !important;
+  font-weight: 500 !important;
 }
 
 .sub_heading {
